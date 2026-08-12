@@ -12,5 +12,6 @@ We work on **adaptive and self-learning robots and manufacturing systems** — s
 ## Links
 
 - [Research profile (VBN)](https://vbn.aau.dk/en/organisations/robotics-and-automation/)
+- [LinkedIn group profile](https://dk.linkedin.com/showcase/robotics-automation-group/)
 
 Open-source code, course material, and research software from the group live in this organization.
